@@ -1,0 +1,8 @@
+.accordion .content {
+    overflow-y: hidden;
+}
+
+.closed {
+    max-height: 0;
+    visibility: hidden;
+}
